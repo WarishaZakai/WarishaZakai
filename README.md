@@ -1,6 +1,10 @@
 Hi, I'm Warisha Zakai!  
 Aspiring Data Scientist | Tech Enthusiast 💻
 
+
+![My Profile Picture](image.jpg)
+
+
 About me:
 🌟 Data Science Intern at DevTech | Exploring Front-end & Back-end Development  
 📊 Passionate about AI, Data Analysis, and building web solutions  
